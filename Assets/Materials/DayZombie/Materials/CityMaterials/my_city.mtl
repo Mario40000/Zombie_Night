@@ -1,0 +1,1580 @@
+newmtl YardGround_26
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd yard_2_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FlatRoofTexture_1
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd flatroof1_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl YardGround_28
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd yard_9_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl ParkingLot_12
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd parkingLots5_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_13
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.4_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FlatRoofTexture_2
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd flatroof4_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_22
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.9_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_18
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.8_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_43
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.8_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl YardGround_14
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd yard_6_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl YardGround_7
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd yard_2_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_39
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.3_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.1_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_33
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.5_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl ParkingLot_5
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd parkingLots4_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_27
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.3_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl ParkingLot
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd parkingLots5_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_20
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.7_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FlatRoofTexture_4
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd flatroof9_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FacadeTexture_27
+    illum 4
+    Ks 3 3 3
+    Ns 20
+    map_Kd fac_09_floors7_tiles4_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl YardGround_9
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd yard_9_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl ParkingLot_1
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd parkingLots3_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl YardGround_11
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd yard_11_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl YardGround
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd yard_2_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FlatRoofTexture_9
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd flatroof8_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl ParkingLot_20
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd parkingLots1_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_40
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.1_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl ParkingLot_11
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd parkingLots2_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_1
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.2_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl ParkingLot_10
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd parkingLots5_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FacadeTexture_16
+    illum 4
+    Ks 3 3 3
+    Ns 20
+    map_Kd fac_22_floors60_tiles33_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_4
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.1_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FacadeTexture_20
+    illum 4
+    Ks 3 3 3
+    Ns 20
+    map_Kd fac_14_floors6_tiles9_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl YardGround_6
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd yard_6_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl ParkingLot_8
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd parkingLots4_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl Street
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd road_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl ParkingLot_19
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd parkingLots4_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl YardGround_19
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd yard_6_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FacadeTexture_9
+    illum 4
+    Ks 3 3 3
+    Ns 20
+    map_Kd fac_24_floors60_tiles24_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_14
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.3_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl YardGround_22
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd yard_2_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_32
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.6_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FacadeTexture_17
+    illum 4
+    Ks 3 3 3
+    Ns 20
+    map_Kd fac_27_floors60_tiles6_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl YardGround_17
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd yard_11_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FacadeTexture_4
+    illum 4
+    Ks 3 3 3
+    Ns 20
+    map_Kd fac_11_floors5_tiles9_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_6
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.2_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl ParkingLot_2
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd parkingLots5_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_29
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.4_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl ParkingLot_4
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd parkingLots3_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl YardGround_4
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd yard_2_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_17
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.6_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl ParkingLot_9
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd parkingLots3_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_25
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.9_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_9
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.4_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl Concrete
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd concrete_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_10
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.8_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_24
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.9_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_7
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.7_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_48
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.1_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_16
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.9_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl YardGround_12
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd yard_6_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FacadeTexture_18
+    illum 4
+    Ks 3 3 3
+    Ns 20
+    map_Kd fac_17_floors4_tiles9_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl ParkingLot_14
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd parkingLots3_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl ParkingLot_3
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd parkingLots3_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FacadeTexture_21
+    illum 4
+    Ks 3 3 3
+    Ns 20
+    map_Kd fac_29_floors60_tiles9_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl YardGround_20
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd yard_8_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FacadeTexture_7
+    illum 4
+    Ks 3 3 3
+    Ns 20
+    map_Kd fac_02_floors5_tiles7_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FlatRoofTexture_3
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd flatroof2_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_45
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.6_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FacadeTexture_14
+    illum 4
+    Ks 3 3 3
+    Ns 20
+    map_Kd fac_03_floors5_tiles5_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl ParkingLot_13
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd parkingLots2_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FlatRoofTexture_5
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd flatroof6_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FacadeTexture_19
+    illum 4
+    Ks 3 3 3
+    Ns 20
+    map_Kd fac_12_floors5_tiles9_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FlatRoofTexture_8
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd flatroof5_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FacadeTexture_25
+    illum 4
+    Ks 3 3 3
+    Ns 20
+    map_Kd fac_08_floors5_tiles5_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_30
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.6_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FacadeTexture_12
+    illum 4
+    Ks 3 3 3
+    Ns 20
+    map_Kd fac_10_floors6_tiles9_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FacadeTexture_10
+    illum 4
+    Ks 3 3 3
+    Ns 20
+    map_Kd fac_06_floors7_tiles9_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl YardGround_5
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd yard_11_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_50
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.6_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FacadeTexture_23
+    illum 4
+    Ks 3 3 3
+    Ns 20
+    map_Kd fac_13_floors5_tiles7_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl YardGround_29
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd yard_9_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_41
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.5_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl YardGround_1
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd yard_8_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl YardGround_8
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd yard_8_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_12
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.4_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_5
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.5_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl YardGround_18
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd yard_8_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl YardGround_15
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd yard_8_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl ParkingLot_6
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd parkingLots5_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl YardGround_10
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd yard_11_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FlatRoofTexture
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd flatroof7_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_49
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.3_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl ParkingLot_17
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd parkingLots5_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FacadeTexture_8
+    illum 4
+    Ks 3 3 3
+    Ns 20
+    map_Kd fac_18_floors3_tiles13_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FacadeTexture
+    illum 4
+    Ks 3 3 3
+    Ns 20
+    map_Kd fac_25_floors60_tiles12_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FlatRoofTexture_7
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd flatroof3_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FacadeTexture_1
+    illum 4
+    Ks 3 3 3
+    Ns 20
+    map_Kd fac_28_floors60_tiles16_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FacadeTexture_26
+    illum 4
+    Ks 3 3 3
+    Ns 20
+    map_Kd fac_19_floors5_tiles12_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl Pavement
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd pavement_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_8
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.4_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl ParkingLot_15
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd parkingLots4_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl ParkingLot_18
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd parkingLots2_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_44
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.2_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_26
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.3_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl YardGround_3
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd yard_11_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_19
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.8_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FacadeTexture_24
+    illum 4
+    Ks 3 3 3
+    Ns 20
+    map_Kd fac_01_floors5_tiles8_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_21
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.1_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_42
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.5_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_28
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.2_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_31
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.4_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl Curbs
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd curb_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_38
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.7_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_34
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.1_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FacadeTexture_11
+    illum 4
+    Ks 3 3 3
+    Ns 20
+    map_Kd fac_15_floors3_tiles11_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_15
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.5_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FlatRoofTexture_6
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd flatroof10_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FacadeTexture_3
+    illum 4
+    Ks 3 3 3
+    Ns 20
+    map_Kd fac_23_floors60_tiles28_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl YardGround_24
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd yard_9_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl ParkingLot_7
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd parkingLots3_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl YardGround_25
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd yard_2_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_11
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.9_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_3
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.8_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_36
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.6_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FacadeTexture_5
+    illum 4
+    Ks 3 3 3
+    Ns 20
+    map_Kd fac_07_floors4_tiles7_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FacadeTexture_2
+    illum 4
+    Ks 3 3 3
+    Ns 20
+    map_Kd fac_05_floors7_tiles17_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_2
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.7_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl ParkingLot_21
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd parkingLots4_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl YardGround_27
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd yard_11_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FacadeTexture_15
+    illum 4
+    Ks 3 3 3
+    Ns 20
+    map_Kd fac_16_floors4_tiles10_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FacadeTexture_13
+    illum 4
+    Ks 3 3 3
+    Ns 20
+    map_Kd fac_21_floors5_tiles9_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FacadeTexture_22
+    illum 4
+    Ks 3 3 3
+    Ns 20
+    map_Kd fac_04_floors5_tiles13_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_37
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.9_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_47
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.7_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl YardGround_2
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd yard_9_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl YardGround_21
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd yard_9_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl YardGround_23
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd yard_6_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FacadeTexture_6
+    illum 4
+    Ks 3 3 3
+    Ns 20
+    map_Kd fac_26_floors60_tiles10_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl YardGround_13
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd yard_6_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_46
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.5_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_23
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.8_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_35
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.7_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl ParkingLot_16
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd parkingLots2_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl YardGround_16
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd yard_8_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_53
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.2_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl ParkingLot_24
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd parkingLots1_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl ParkingLot_23
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd parkingLots4_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl ParkingLot_29
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd parkingLots1_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl ParkingLot_28
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd parkingLots1_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl ParkingLot_22
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd parkingLots2_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_52
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.2_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl YardGround_30
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd yard_5_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl ParkingLot_27
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd parkingLots1_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl ParkingLot_26
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd parkingLots1_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl ParkingLot_25
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd parkingLots2_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl RoofPlane_51
+    illum 3
+    Ks 0 0 0
+    Ns 0
+    map_Kd rooftile.3_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0
+newmtl FacadeTexture_28
+    illum 4
+    Ks 3 3 3
+    Ns 20
+    map_Kd fac_20_floors6_tiles12_day.jpg
+    Kd 1 1 1
+    d 1
+    Ka 0 0 0
+    Tf 1.0 1.0 1.0
+    Ni 1.0

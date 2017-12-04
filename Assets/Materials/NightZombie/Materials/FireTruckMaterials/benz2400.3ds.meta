@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 2cdc4f3e5eccf894bbe5ae4983cab62d
+timeCreated: 1496881944
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: antrieb
+    100002: //RootNode
+    100004: details
+    100006: geraete
+    100008: kaba
+    100010: kabi1
+    100012: kabi2
+    100014: licht
+    100016: mhorn
+    100018: radhf
+    100020: radp
+    100022: radvf
+    100024: rahmen1
+    100026: rahmen2
+    100028: tank
+    100030: tritt
+    400000: antrieb
+    400002: //RootNode
+    400004: details
+    400006: geraete
+    400008: kaba
+    400010: kabi1
+    400012: kabi2
+    400014: licht
+    400016: mhorn
+    400018: radhf
+    400020: radp
+    400022: radvf
+    400024: rahmen1
+    400026: rahmen2
+    400028: tank
+    400030: tritt
+    2300000: antrieb
+    2300002: details
+    2300004: geraete
+    2300006: kaba
+    2300008: kabi1
+    2300010: kabi2
+    2300012: licht
+    2300014: mhorn
+    2300016: radhf
+    2300018: radp
+    2300020: radvf
+    2300022: rahmen1
+    2300024: rahmen2
+    2300026: tank
+    2300028: tritt
+    3300000: antrieb
+    3300002: details
+    3300004: geraete
+    3300006: kaba
+    3300008: kabi1
+    3300010: kabi2
+    3300012: licht
+    3300014: mhorn
+    3300016: radhf
+    3300018: radp
+    3300020: radvf
+    3300022: rahmen1
+    3300024: rahmen2
+    3300026: tank
+    3300028: tritt
+    4300000: kabi1
+    4300002: kabi2
+    4300004: antrieb
+    4300006: radp
+    4300008: radvf
+    4300010: mhorn
+    4300012: geraete
+    4300014: tritt
+    4300016: rahmen1
+    4300018: details
+    4300020: kaba
+    4300022: licht
+    4300024: radhf
+    4300026: rahmen2
+    4300028: tank
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
