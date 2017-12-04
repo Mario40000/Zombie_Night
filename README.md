@@ -1,4 +1,4 @@
-# Zombie_Ninght
+# Zombie_Night
 A Level Design practice
 
 This game was developed in Unity3D 2017.2.0f3
