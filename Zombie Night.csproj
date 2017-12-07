@@ -232,17 +232,6 @@
     <Compile Include="Assets\EffectExamples\Shared\Scripts\ParticleCollision.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\ParticleExamples.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\ParticleMenu.cs" />
-    <Compile Include="Assets\OldAssets\DayZombie\Scripts\Characters\AIZombieControlScript.cs" />
-    <Compile Include="Assets\OldAssets\DayZombie\Scripts\Characters\CarEnter.cs" />
-    <Compile Include="Assets\OldAssets\DayZombie\Scripts\Characters\CarKillController.cs" />
-    <Compile Include="Assets\OldAssets\DayZombie\Scripts\Characters\PedestriansLifeController.cs" />
-    <Compile Include="Assets\OldAssets\DayZombie\Scripts\Characters\PedestriansLifeControllerFemale.cs" />
-    <Compile Include="Assets\OldAssets\DayZombie\Scripts\Pickers\MoneyController.cs" />
-    <Compile Include="Assets\OldAssets\DayZombie\Scripts\Scenario\Destroyer.cs" />
-    <Compile Include="Assets\OldAssets\DayZombie\Scripts\Scenario\GameManager.cs" />
-    <Compile Include="Assets\OldAssets\DayZombie\Scripts\Scenario\GameOverScreen.cs" />
-    <Compile Include="Assets\OldAssets\DayZombie\Scripts\Scenario\StaticData.cs" />
-    <Compile Include="Assets\OldAssets\DayZombie\Scripts\Scenario\TitleScene.cs" />
     <Compile Include="Assets\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
     <Compile Include="Assets\PostProcessing\Runtime\Attributes\MinAttribute.cs" />
     <Compile Include="Assets\PostProcessing\Runtime\Attributes\TrackballAttribute.cs" />
@@ -287,7 +276,15 @@
     <Compile Include="Assets\PostProcessing\Runtime\Utils\GraphicsUtils.cs" />
     <Compile Include="Assets\PostProcessing\Runtime\Utils\MaterialFactory.cs" />
     <Compile Include="Assets\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
-    <Compile Include="Assets\Scripts\FireTruckLights.cs" />
+    <Compile Include="Assets\Scripts\Characters\AIZombieControlScript.cs" />
+    <Compile Include="Assets\Scripts\Scenario\AHController.cs" />
+    <Compile Include="Assets\Scripts\Scenario\Destroyer.cs" />
+    <Compile Include="Assets\Scripts\Scenario\FireTruckLights.cs" />
+    <Compile Include="Assets\Scripts\Scenario\GameManager.cs" />
+    <Compile Include="Assets\Scripts\Scenario\GameOverScreen.cs" />
+    <Compile Include="Assets\Scripts\Scenario\LightsController.cs" />
+    <Compile Include="Assets\Scripts\Scenario\StaticData.cs" />
+    <Compile Include="Assets\Scripts\Scenario\TitleScene.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\EffectExamples\Shared\Shaders\SurfaceShader_VC.shader" />
@@ -333,8 +330,6 @@
     <None Include="Assets\PostProcessing\Resources\Shaders\Uber.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\UberSecondPass.cginc" />
     <None Include="Assets\Standard Assets\Cameras\CameraGuidelines.txt" />
-    <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
-    <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
     <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
@@ -418,11 +413,6 @@
     <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAdd.shader" />
     <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAddSoft.shader" />
     <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAlpha.shader" />
-    <None Include="Assets\Standard Assets\Vehicles\Aircraft\AircraftGuidelines.txt" />
-    <None Include="Assets\Standard Assets\Vehicles\Car\CarGuidelines.txt" />
-    <None Include="Assets\Standard Assets\Vehicles\Car\Shaders\DiffuseReflectiveShader.shader" />
-    <None Include="Assets\Standard Assets\Vehicles\Car\Shaders\ReflectiveDiffuseSpec.shader" />
-    <None Include="Assets\Standard Assets\Vehicles\Car\Shaders\ReflectiveDiffuseSpecTransp.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

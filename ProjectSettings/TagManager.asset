@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Zombie
+  - Street1
+  - Street2
+  - Street3
+  - Street4
+  - Street5
+  - Street6
   layers:
   - Default
   - TransparentFX
