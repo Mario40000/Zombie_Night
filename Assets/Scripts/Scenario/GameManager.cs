@@ -9,6 +9,8 @@ public class GameManager : MonoBehaviour {
     public Text lifeText;
     public Text livesText;
     public Text dieText;
+    public GameObject lightsController;
+    public GameObject fullController;
     public GameObject explosion;
     private GameObject instancier;
 
@@ -16,6 +18,8 @@ public class GameManager : MonoBehaviour {
 	void Start ()
     {
         StaticData.life = 100;
+        lightsController.SetActive(false);
+        fullController.SetActive(false);
         dieText.text = "";
 	}
 	

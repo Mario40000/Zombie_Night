@@ -278,6 +278,7 @@
     <Compile Include="Assets\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
     <Compile Include="Assets\Scripts\Characters\AIZombieControlScript.cs" />
     <Compile Include="Assets\Scripts\Scenario\AHController.cs" />
+    <Compile Include="Assets\Scripts\Scenario\DayCicle.cs" />
     <Compile Include="Assets\Scripts\Scenario\Destroyer.cs" />
     <Compile Include="Assets\Scripts\Scenario\FireTruckLights.cs" />
     <Compile Include="Assets\Scripts\Scenario\GameManager.cs" />
