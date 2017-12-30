@@ -284,6 +284,7 @@
     <Compile Include="Assets\Scripts\Scenario\GameManager.cs" />
     <Compile Include="Assets\Scripts\Scenario\GameOverScreen.cs" />
     <Compile Include="Assets\Scripts\Scenario\LightsController.cs" />
+    <Compile Include="Assets\Scripts\Scenario\MoonControl.cs" />
     <Compile Include="Assets\Scripts\Scenario\StaticData.cs" />
     <Compile Include="Assets\Scripts\Scenario\TitleScene.cs" />
   </ItemGroup>
