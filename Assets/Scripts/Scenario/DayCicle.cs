@@ -7,6 +7,7 @@ public class DayCicle : MonoBehaviour {
     public float durationInMinutes = 3.0f;
     public GameObject lightsController;
     public GameObject fullController;
+    public GameObject skyStars;
 
     private float timer;
     private float pertcentDay;
@@ -37,6 +38,7 @@ public class DayCicle : MonoBehaviour {
         {
             fullController.SetActive(true);
             lightsController.SetActive(true);
+            skyStars.SetActive(true);
             if (GetComponent<Light>().intensity > 0.0f)
             {
                 GetComponent<Light>().intensity -= 0.05f;
@@ -46,6 +48,7 @@ public class DayCicle : MonoBehaviour {
         {
             lightsController.SetActive(false);
             fullController.SetActive(false);
+            skyStars.SetActive(false);
             if (GetComponent<Light>().intensity < 1.0f)
             {
                 GetComponent<Light>().intensity += 0.05f;
