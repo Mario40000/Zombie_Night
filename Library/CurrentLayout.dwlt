@@ -110,7 +110,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 5036
+  controlID: 1061
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -131,10 +131,10 @@ MonoBehaviour:
     y: 0
     width: 966
     height: 947
-  m_MinSize: {x: 202, y: 421}
-  m_MaxSize: {x: 4002, y: 8021}
+  m_MinSize: {x: 202, y: 442}
+  m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 5129
+  controlID: 1062
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -211,7 +211,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 5009
+  controlID: 917
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -399,9 +399,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.2587471, y: 194.89404, z: -0.6357422}
+    m_Target: {x: 126.94211, y: -33.693794, z: -132.08575}
     speed: 2
-    m_Value: {x: -0.2587471, y: 194.89404, z: -0.6357422}
+    m_Value: {x: 126.94211, y: -33.693794, z: -132.08575}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -424,9 +424,9 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.15303653, y: -0.18362652, z: 0.028953433, w: -0.9705786}
+    m_Target: {x: 0.00023601123, y: -0.9996557, z: 0.024384769, w: 0.0096834935}
     speed: 2
-    m_Value: {x: -0.15303653, y: -0.1836265, z: 0.028953431, w: -0.97057855}
+    m_Value: {x: -0.00023601124, y: 0.9996558, z: -0.02438477, w: -0.009683494}
   m_Size:
     m_Target: 276.58444
     speed: 2
@@ -566,9 +566,9 @@ MonoBehaviour:
     height: 480
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 8a2e0100
-    m_LastClickedID: 77450
-    m_ExpandedIDs: fe82fcff2e78fffffc83ffff828affffba8affffa6fbffff00000000
+    m_SelectedIDs: 7a2c0000
+    m_LastClickedID: 0
+    m_ExpandedIDs: a6fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -629,19 +629,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scripts/Scenario
+    - Assets/EffectExamples
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Scripts/Scenario
+  - Assets/EffectExamples
   m_LastFoldersGridSize: 16
   m_LastProjectPath: E:\Mario\Unity Workspace\Zombie Night
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: fa2f0000
-    m_LastClickedID: 12282
-    m_ExpandedIDs: 00000000aa2900007e2a0000322b0000a02d0000aa4e0000ac4e0000ae4e0000b04e0000b24e0000b44e0000b64e0000b84e0000ba4e0000bc4e0000be4e0000c04e0000c24e0000c44e000024b6000000ca9a3bffffff7f
+    m_SelectedIDs: a22a0000
+    m_LastClickedID: 10914
+    m_ExpandedIDs: 00000000aa290000822a00003c2b0000d0350000fa4e0000fc4e0000fe4e0000004f0000024f0000044f0000064f0000084f00000a4f00000c4f00000e4f0000104f0000124f0000144f0000164f000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -669,7 +669,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: b4220000
     m_LastClickedID: 8884
-    m_ExpandedIDs: 00000000aa2900007e2a0000322b0000a02d0000aa4e0000ac4e0000ae4e0000b04e0000b24e0000b44e0000b64e0000b84e0000ba4e0000bc4e0000be4e0000c04e0000c24e0000c44e000024b6000000ca9a3bffffff7f
+    m_ExpandedIDs: 00000000aa290000822a00003c2b0000d0350000fa4e0000fc4e0000fe4e0000004f0000024f0000044f0000064f0000084f00000a4f00000c4f00000e4f0000104f0000124f0000144f0000164f000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
