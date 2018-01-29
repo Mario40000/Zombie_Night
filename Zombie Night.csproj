@@ -233,6 +233,7 @@
     <Compile Include="Assets\EffectExamples\Shared\Scripts\ParticleExamples.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\ParticleMenu.cs" />
     <Compile Include="Assets\Scripts\Characters\AIZombieControlScript.cs" />
+    <Compile Include="Assets\Scripts\Characters\ZombieVoiceController.cs" />
     <Compile Include="Assets\Scripts\Scenario\AHController.cs" />
     <Compile Include="Assets\Scripts\Scenario\DayCicle.cs" />
     <Compile Include="Assets\Scripts\Scenario\Destroyer.cs" />

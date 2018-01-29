@@ -39,11 +39,21 @@ public class AHController : MonoBehaviour {
     {
         win = true;
         finalText.text = "You escape";
-        
-        while (StaticData.speed < 1000)
+        GetComponent<AudioSource>().Play();
+        float pitchSpeed = 0;
+        while (StaticData.speed < 800)
         {
             yield return new WaitForSeconds(1);
             StaticData.speed += 50;
+            pitchSpeed += 0.1f;
+            if(GetComponent<AudioSource>().pitch < 1)
+            {
+                GetComponent<AudioSource>().pitch = pitchSpeed;
+            }
+            else
+            {
+                pitchSpeed = 1;
+            }
         }
 
         SceneManager.LoadScene("TitleScene");

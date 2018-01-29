@@ -1,5 +1,7 @@
 ﻿using System;
+using System.Collections;
 using UnityEngine;
+using System.Collections.Generic;
 
 namespace UnityStandardAssets.Characters.ThirdPerson
 {
@@ -11,9 +13,15 @@ namespace UnityStandardAssets.Characters.ThirdPerson
         public ThirdPersonCharacter character { get; private set; } // the character we are controlling
         public Transform target;                                    // target to aim for
         private Animator animator;
-        private AudioSource punch;
+        
 
         public int damageForce;
+
+        public GameObject[] attacks;
+        public GameObject alertSound;
+
+        private bool isAttacking = false;
+        private bool isAlert = false;
 
         private void Start()
         {
@@ -21,7 +29,7 @@ namespace UnityStandardAssets.Characters.ThirdPerson
             agent = GetComponentInChildren<UnityEngine.AI.NavMeshAgent>();
             character = GetComponent<ThirdPersonCharacter>();
             animator = GetComponent<Animator>();
-            punch = GetComponent<AudioSource>();
+            
 
             agent.updateRotation = false;
             agent.updatePosition = true;
@@ -54,22 +62,50 @@ namespace UnityStandardAssets.Characters.ThirdPerson
             {
 
                 target = other.GetComponent<Transform>();
+
+                if (isAlert == false)
+                {
+                    
+                    StartCoroutine(Alert());
+                }
+
                 
             }
         }
 
 
-        //Metodo para dañar al player
+        //Metodo para atacar al personaje
         void OnCollisionEnter (Collision other)
         {
             if (other.gameObject.tag == "Player")
             {
-                punch.Play();
-                StaticData.life -= damageForce;
+                if (isAttacking == false)
+                {
+                    StartCoroutine(Attack());
+                }
+                
             }
         }
 
+        //Metodo para quietar vida al personaje
+        IEnumerator Attack ()
+        {
+            isAttacking = true;
+            StaticData.life -= damageForce;
+            int num = (UnityEngine.Random.Range(0, attacks.Length));
+            attacks[num].GetComponent<AudioSource>().Play();
+            yield return new WaitForSeconds(1.5f);
+            isAttacking = false;
+        }
 
+        //Metodo para hacer sonar una alerta al ser detectados
+        IEnumerator Alert ()
+        {
+            isAlert = true;
+            alertSound.GetComponent<AudioSource>().Play();
+            yield return new WaitForSeconds(2.5f);
+            alertSound.GetComponent<AudioSource>().Stop();
+        }
 
     }
 }
