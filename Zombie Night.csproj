@@ -234,9 +234,11 @@
     <Compile Include="Assets\EffectExamples\Shared\Scripts\ParticleMenu.cs" />
     <Compile Include="Assets\Scripts\Characters\AIZombieControlScript.cs" />
     <Compile Include="Assets\Scripts\Characters\ZombieVoiceController.cs" />
+    <Compile Include="Assets\Scripts\Game\SplashScreenController.cs" />
     <Compile Include="Assets\Scripts\Scenario\AHController.cs" />
     <Compile Include="Assets\Scripts\Scenario\DayCicle.cs" />
     <Compile Include="Assets\Scripts\Scenario\Destroyer.cs" />
+    <Compile Include="Assets\Scripts\Scenario\FireSoundController.cs" />
     <Compile Include="Assets\Scripts\Scenario\FireTruckLights.cs" />
     <Compile Include="Assets\Scripts\Scenario\GameManager.cs" />
     <Compile Include="Assets\Scripts\Scenario\GameOverScreen.cs" />
@@ -244,6 +246,7 @@
     <Compile Include="Assets\Scripts\Scenario\MoonControl.cs" />
     <Compile Include="Assets\Scripts\Scenario\StaticData.cs" />
     <Compile Include="Assets\Scripts\Scenario\TitleScene.cs" />
+    <Compile Include="Assets\Scripts\Scenario\UIButtonSoundEvent.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\EffectExamples\Shared\Shaders\SurfaceShader_VC.shader" />

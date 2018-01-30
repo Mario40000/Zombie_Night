@@ -12,6 +12,7 @@ public class GameManager : MonoBehaviour {
     public GameObject lightsController;
     public GameObject fullController;
     public GameObject explosion;
+    public GameObject deadSound;
     private GameObject instancier;
 
 	// Use this for initialization
@@ -39,11 +40,11 @@ public class GameManager : MonoBehaviour {
     {
         GameObject player = GameObject.FindGameObjectWithTag("Player");
         instancier = GameObject.FindGameObjectWithTag("Player");
-        
-        
+     
         if (player != null)
         {
             Instantiate(explosion, instancier.GetComponent<Transform>().position, Quaternion.identity);
+            deadSound.GetComponent<AudioSource>().Play();
             StaticData.lives--;
             Destroy(player);
             dieText.text = "YOU DIE";

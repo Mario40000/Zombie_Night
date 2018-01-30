@@ -103,7 +103,7 @@ namespace UnityStandardAssets.Characters.ThirdPerson
         {
             isAlert = true;
             alertSound.GetComponent<AudioSource>().Play();
-            yield return new WaitForSeconds(2.5f);
+            yield return new WaitForSeconds(1.5f);
             alertSound.GetComponent<AudioSource>().Stop();
         }
 
